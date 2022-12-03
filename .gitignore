@@ -4,4 +4,4 @@
 # Documentation here: https://yarnpkg.com/features/zero-installs
 
 #.pnp.*
-.dist/*
+./dist/*
