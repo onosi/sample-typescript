@@ -1,0 +1,9 @@
+{
+  "name": "sample-typescript",
+  "packageManager": "yarn@3.3.0",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.3"
+  }
+}
